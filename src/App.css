@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Poppins, sans-serif !important;
+}
+
+.navbar.titlebar {
+  background: #002d77;
+  height: 30% !important;
+}
+
+.shoppinglisttitle {
+  color: #ffffff;
+}
+
+.shoppinglisttitle:hover {
+  color: #007fff !important;
+}
+
+.totalquantitylbl {
+  margin-top: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+}
+
+.actionBtn {
+  margin-top: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  width: 35%;
+}
+
+.actionBtn .btn {
+  margin: 0 0.25rem;
+}
+
+.cartItems {
+  margin-bottom: 3%;
+}
